@@ -86,6 +86,10 @@ The application will open in your web browser.
 
 ![File Management System GUI](Screenshot.png)
 
+## Live Demo
+
+[Click here to try the File Management System](https://pncz7vrzhvatwghgqqelvp.streamlit.app/)
+
 ## Concepts Practiced
 
 This project helped me practice:
